@@ -1,0 +1,15 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\Hardware.407A9A50.Up2Date
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\refint\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.InMemory\obj\Debug\net8.0\ref\HardwareStore.Services.Utils.Monitoring.Caching.InMemory.dll

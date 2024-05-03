@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.csproj" />
+    <ProjectReference Include="..\HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement\HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement.csproj" />
+    <ProjectReference Include="..\HardwareStore.Services.Utils.Serializer.Yaml\HardwareStore.Services.Utils.Serializer.Yaml.csproj" />
+  </ItemGroup>
+
+</Project>

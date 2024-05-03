@@ -1,0 +1,5 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.SqlServerService\obj\Debug\net8.0\HardwareStore.Services.SqlServerService.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.SqlServerService\obj\Debug\net8.0\HardwareStore.Services.SqlServerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.SqlServerService\obj\Debug\net8.0\HardwareStore.Services.SqlServerService.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.SqlServerService\obj\Debug\net8.0\HardwareStore.Services.SqlServerService.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.SqlServerService\obj\Debug\net8.0\HardwareStore.Services.SqlServerService.csproj.CoreCompileInputs.cache

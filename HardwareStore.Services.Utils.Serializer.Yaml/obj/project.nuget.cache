@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9I2Izbs/TznQ65xybcBXrkAkhBLGtS0dewnsT2kfPgaAmfTDFeH1eydFuIwK7D1I5JwLJCjQuKGLUX5PoqtTQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Services.Utils.Serializer.Yaml\\HardwareStore.Services.Utils.Serializer.Yaml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\рс\\.nuget\\packages\\yamldotnet\\15.1.2\\yamldotnet.15.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

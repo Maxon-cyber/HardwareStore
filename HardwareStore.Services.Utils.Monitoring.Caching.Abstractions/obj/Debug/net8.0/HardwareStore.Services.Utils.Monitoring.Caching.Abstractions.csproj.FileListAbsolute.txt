@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\obj\Debug\net8.0\refint\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions\obj\Debug\net8.0\ref\HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.dll

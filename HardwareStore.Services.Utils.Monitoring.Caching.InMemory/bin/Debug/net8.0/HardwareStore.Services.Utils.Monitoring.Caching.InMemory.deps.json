@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HardwareStore.Services.Utils.Monitoring.Caching.InMemory/1.0.0": {
+        "dependencies": {
+          "HardwareStore.Services.Utils.Monitoring.Caching.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "HardwareStore.Services.Utils.Monitoring.Caching.InMemory.dll": {}
+        }
+      },
+      "HardwareStore.Services.Utils.Monitoring.Caching.Abstractions/1.0.0": {
+        "runtime": {
+          "HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardwareStore.Services.Utils.Monitoring.Caching.InMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HardwareStore.Services.Utils.Monitoring.Caching.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

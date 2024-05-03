@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HardwareStore.Entities\HardwareStore.Entities.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Presenters.Base\HardwareStore.MVP.Presenters.Base.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Views.Abstractions\HardwareStore.MVP.Views.Abstractions.csproj" />
+    <ProjectReference Include="..\HardwareStore.Services.SqlServerService\HardwareStore.Services.SqlServerService.csproj" />
+  </ItemGroup>
+
+</Project>

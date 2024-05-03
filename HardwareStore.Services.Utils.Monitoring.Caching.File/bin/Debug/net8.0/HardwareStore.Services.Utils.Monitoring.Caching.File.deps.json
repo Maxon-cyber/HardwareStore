@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HardwareStore.Services.Utils.Monitoring.Caching.File/1.0.0": {
+        "dependencies": {
+          "HardwareStore.Services.Utils.Monitoring.Caching.Abstractions": "1.0.0",
+          "HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement": "1.0.0",
+          "HardwareStore.Services.Utils.Serializer.Yaml": "1.0.0"
+        },
+        "runtime": {
+          "HardwareStore.Services.Utils.Monitoring.Caching.File.dll": {}
+        }
+      },
+      "YamlDotNet/15.1.2": {
+        "runtime": {
+          "lib/net8.0/YamlDotNet.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.1.2.0"
+          }
+        }
+      },
+      "HardwareStore.Services.Utils.Monitoring.Caching.Abstractions/1.0.0": {
+        "runtime": {
+          "HardwareStore.Services.Utils.Monitoring.Caching.Abstractions.dll": {}
+        }
+      },
+      "HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement/1.0.0": {
+        "runtime": {
+          "HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement.dll": {}
+        }
+      },
+      "HardwareStore.Services.Utils.Serializer.Abstractions/1.0.0": {
+        "runtime": {
+          "HardwareStore.Services.Utils.Serializer.Abstractions.dll": {}
+        }
+      },
+      "HardwareStore.Services.Utils.Serializer.Yaml/1.0.0": {
+        "dependencies": {
+          "HardwareStore.Services.Utils.Serializer.Abstractions": "1.0.0",
+          "YamlDotNet": "15.1.2"
+        },
+        "runtime": {
+          "HardwareStore.Services.Utils.Serializer.Yaml.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardwareStore.Services.Utils.Monitoring.Caching.File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YamlDotNet/15.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qeX0XhzOIcQEvnI5JxnPaIwcINwyY4Qy/LXhSfsdHkFrl9F41AT52UFfy2nIE7kgrhMg+cP7xuS+GtPJhmHmTA==",
+      "path": "yamldotnet/15.1.2",
+      "hashPath": "yamldotnet.15.1.2.nupkg.sha512"
+    },
+    "HardwareStore.Services.Utils.Monitoring.Caching.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HardwareStore.Services.Utils.Serializer.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HardwareStore.Services.Utils.Serializer.Yaml/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

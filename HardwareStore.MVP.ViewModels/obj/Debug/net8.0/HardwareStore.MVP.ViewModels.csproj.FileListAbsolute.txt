@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\bin\Debug\net8.0\HardwareStore.MVP.ViewModels.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\bin\Debug\net8.0\HardwareStore.MVP.ViewModels.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\bin\Debug\net8.0\HardwareStore.MVP.ViewModels.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\obj\Debug\net8.0\HardwareStore.MVP.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\obj\Debug\net8.0\HardwareStore.MVP.ViewModels.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\obj\Debug\net8.0\HardwareStore.MVP.ViewModels.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\obj\Debug\net8.0\HardwareStore.MVP.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\obj\Debug\net8.0\HardwareStore.MVP.ViewModels.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\obj\Debug\net8.0\refint\HardwareStore.MVP.ViewModels.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\obj\Debug\net8.0\HardwareStore.MVP.ViewModels.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.ViewModels\obj\Debug\net8.0\ref\HardwareStore.MVP.ViewModels.dll

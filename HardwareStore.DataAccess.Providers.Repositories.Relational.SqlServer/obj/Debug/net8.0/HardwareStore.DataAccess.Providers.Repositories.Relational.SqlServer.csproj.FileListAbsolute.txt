@@ -1,0 +1,5 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Repositories.Relational.SqlServer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\obj\Debug\net8.0\HardwareStore.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\obj\Debug\net8.0\HardwareStore.Entities.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\obj\Debug\net8.0\HardwareStore.Entities.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\obj\Debug\net8.0\HardwareStore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\bin\Debug\net8.0\HardwareStore.Entities.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\bin\Debug\net8.0\HardwareStore.Entities.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\bin\Debug\net8.0\HardwareStore.Entities.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\obj\Debug\net8.0\HardwareStore.Entities.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\obj\Debug\net8.0\refint\HardwareStore.Entities.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\obj\Debug\net8.0\HardwareStore.Entities.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Entities\obj\Debug\net8.0\ref\HardwareStore.Entities.dll

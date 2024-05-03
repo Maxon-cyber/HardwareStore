@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HardwareStore.ApplicationController.ThridParty.Configuration.Microsoft\HardwareStore.ApplicationController.ThridParty.Configuration.Microsoft.csproj" />
+    <ProjectReference Include="..\HardwareStore.ApplicationController.ThridParty.IoC.Autofac\HardwareStore.ApplicationController.ThridParty.IoC.Autofac.csproj" />
+    <ProjectReference Include="..\HardwareStore.ApplicationController\HardwareStore.ApplicationController.csproj" />
+    <ProjectReference Include="..\HardwareStore.DataAccess.Providers.Relational.Abstractions\HardwareStore.DataAccess.Providers.Relational.Abstractions.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Presenters.MainWindow\HardwareStore.MVP.Presenters.MainWindow.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Presenters.UserIdentification\HardwareStore.MVP.Presenters.UserIdentification.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Views.Abstractions\HardwareStore.MVP.Views.Abstractions.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Views.MainWindow\HardwareStore.MVP.Views.MainWindow.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Views.UserIdentification.Registration\HardwareStore.MVP.Views.UserIdentification.Registration.csproj" />
+  </ItemGroup>
+
+</Project>

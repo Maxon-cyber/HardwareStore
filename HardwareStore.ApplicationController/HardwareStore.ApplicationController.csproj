@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HardwareStore.ApplicationController.Abstractions\HardwareStore.ApplicationController.Abstractions.csproj" />
+    <ProjectReference Include="..\HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions\HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions.csproj" />
+    <ProjectReference Include="..\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

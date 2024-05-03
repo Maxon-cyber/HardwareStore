@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HardwareStore.ApplicationController.Abstractions/1.0.0": {
+        "dependencies": {
+          "HardwareStore.MVP.Presenters.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "HardwareStore.ApplicationController.Abstractions.dll": {}
+        }
+      },
+      "HardwareStore.MVP.Presenters.Abstractions/1.0.0": {
+        "runtime": {
+          "HardwareStore.MVP.Presenters.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardwareStore.ApplicationController.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HardwareStore.MVP.Presenters.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

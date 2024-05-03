@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\bin\Debug\net8.0\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\bin\Debug\net8.0\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\bin\Debug\net8.0\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\obj\Debug\net8.0\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\obj\Debug\net8.0\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\obj\Debug\net8.0\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\obj\Debug\net8.0\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\obj\Debug\net8.0\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\obj\Debug\net8.0\refint\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\obj\Debug\net8.0\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\obj\Debug\net8.0\ref\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.dll

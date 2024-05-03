@@ -1,0 +1,17 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\bin\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\bin\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\bin\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\bin\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\bin\Debug\net8.0\HardwareStore.Entities.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\bin\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\bin\Debug\net8.0\HardwareStore.Entities.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\Hardware.EF72E706.Up2Date
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\refint\HardwareStore.DataAccess.Providers.Relational.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Abstractions\obj\Debug\net8.0\ref\HardwareStore.DataAccess.Providers.Relational.Abstractions.dll

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HardwareStore.DataAccess.Repositories.Relational.Abstractions/1.0.0": {
+        "dependencies": {
+          "HardwareStore.DataAccess.Providers.Relational.Models": "1.0.0",
+          "HardwareStore.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HardwareStore.DataAccess.Repositories.Relational.Abstractions.dll": {}
+        }
+      },
+      "HardwareStore.DataAccess.Providers.Relational.Models/1.0.0": {
+        "runtime": {
+          "HardwareStore.DataAccess.Providers.Relational.Models.dll": {}
+        }
+      },
+      "HardwareStore.Entities/1.0.0": {
+        "runtime": {
+          "HardwareStore.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardwareStore.DataAccess.Repositories.Relational.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HardwareStore.DataAccess.Providers.Relational.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HardwareStore.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

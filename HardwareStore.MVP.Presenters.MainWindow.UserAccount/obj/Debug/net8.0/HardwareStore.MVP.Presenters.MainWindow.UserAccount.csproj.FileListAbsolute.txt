@@ -1,0 +1,5 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.MainWindow.UserAccount\obj\Debug\net8.0\HardwareStore.MVP.Presenters.MainWindow.UserAccount.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.MainWindow.UserAccount\obj\Debug\net8.0\HardwareStore.MVP.Presenters.MainWindow.UserAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.MainWindow.UserAccount\obj\Debug\net8.0\HardwareStore.MVP.Presenters.MainWindow.UserAccount.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.MainWindow.UserAccount\obj\Debug\net8.0\HardwareStore.MVP.Presenters.MainWindow.UserAccount.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.MainWindow.UserAccount\obj\Debug\net8.0\HardwareStore.MVP.Presenters.MainWindow.UserAccount.csproj.CoreCompileInputs.cache

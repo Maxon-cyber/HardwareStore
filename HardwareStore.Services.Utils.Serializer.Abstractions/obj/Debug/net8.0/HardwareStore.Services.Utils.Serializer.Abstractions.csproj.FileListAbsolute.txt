@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\bin\Debug\net8.0\HardwareStore.Services.Utils.Serializer.Abstractions.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\bin\Debug\net8.0\HardwareStore.Services.Utils.Serializer.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\bin\Debug\net8.0\HardwareStore.Services.Utils.Serializer.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Serializer.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Serializer.Abstractions.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Serializer.Abstractions.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Serializer.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Serializer.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\obj\Debug\net8.0\refint\HardwareStore.Services.Utils.Serializer.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\obj\Debug\net8.0\HardwareStore.Services.Utils.Serializer.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Serializer.Abstractions\obj\Debug\net8.0\ref\HardwareStore.Services.Utils.Serializer.Abstractions.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement/1.0.0": {
+        "runtime": {
+          "HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

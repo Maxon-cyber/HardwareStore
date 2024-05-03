@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HardwareStore.Services.Utils.Monitoring.Logger.Abstractions\HardwareStore.Services.Utils.Monitoring.Logger.Abstractions.csproj" />
+    <ProjectReference Include="..\HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement\HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement.csproj" />
+  </ItemGroup>
+
+</Project>

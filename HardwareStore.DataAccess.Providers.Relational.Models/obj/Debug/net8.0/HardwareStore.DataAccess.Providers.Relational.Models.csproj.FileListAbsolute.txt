@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\bin\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\bin\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\bin\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\obj\Debug\net8.0\refint\HardwareStore.DataAccess.Providers.Relational.Models.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\obj\Debug\net8.0\HardwareStore.DataAccess.Providers.Relational.Models.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.DataAccess.Providers.Relational.Models\obj\Debug\net8.0\ref\HardwareStore.DataAccess.Providers.Relational.Models.dll

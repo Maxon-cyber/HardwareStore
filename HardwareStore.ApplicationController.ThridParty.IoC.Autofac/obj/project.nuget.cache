@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6PV7R27mRr31xrBwekqjRO6SA/miXx649WuQ31SPU8oiCM4GMuX/lml8GGnO5qr+RmPbgJ0ICgZRXdWXMKU+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController.ThridParty.IoC.Autofac\\HardwareStore.ApplicationController.ThridParty.IoC.Autofac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\рс\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\рс\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEF0266-D04A-4022-AB91-75BEBEC3A48F}|HardwareStore.MVP.Presenter.MainWindow.Sections.ShoppingCart\\HardwareStore.MVP.Presenter.MainWindow.Sections.ShoppingCart.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.presenter.mainwindow.sections.shoppingcart\\shoppingcartpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEF0266-D04A-4022-AB91-75BEBEC3A48F}|HardwareStore.MVP.Presenter.MainWindow.Sections.ShoppingCart\\HardwareStore.MVP.Presenter.MainWindow.Sections.ShoppingCart.csproj|solutionrelative:hardwarestore.mvp.presenter.mainwindow.sections.shoppingcart\\shoppingcartpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05226EB-2A68-44F9-81F4-1F8165DD47DF}|HardwareStore.MVP.Views.UserIdentification.Authorization\\HardwareStore.MVP.Views.UserIdentification.Authorization.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.views.useridentification.authorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05226EB-2A68-44F9-81F4-1F8165DD47DF}|HardwareStore.MVP.Views.UserIdentification.Authorization\\HardwareStore.MVP.Views.UserIdentification.Authorization.csproj|solutionrelative:hardwarestore.mvp.views.useridentification.authorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703C653-AE90-47AD-890B-01FD0DFCB5CB}|HardwareStore.MVP.Presenters.MainWindow\\HardwareStore.MVP.Presenters.MainWindow.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.presenters.mainwindow\\mainwindowpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703C653-AE90-47AD-890B-01FD0DFCB5CB}|HardwareStore.MVP.Presenters.MainWindow\\HardwareStore.MVP.Presenters.MainWindow.csproj|solutionrelative:hardwarestore.mvp.presenters.mainwindow\\mainwindowpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E6B047-30F9-4ABC-94FC-274EE8CE9D42}|HardwareStore.MVP.Presenters.MainWindow.ProductShowcase\\HardwareStore.MVP.Presenters.MainWindow.ProductShowcase.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.presenters.mainwindow.productshowcase\\productshowcasepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E6B047-30F9-4ABC-94FC-274EE8CE9D42}|HardwareStore.MVP.Presenters.MainWindow.ProductShowcase\\HardwareStore.MVP.Presenters.MainWindow.ProductShowcase.csproj|solutionrelative:hardwarestore.mvp.presenters.mainwindow.productshowcase\\productshowcasepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1C303-7DDA-451C-959F-383FB2D9FD33}|HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.views.mainwindow.sections.productshowcase\\productshowcasecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D1C303-7DDA-451C-959F-383FB2D9FD33}|HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase.csproj|solutionrelative:hardwarestore.mvp.views.mainwindow.sections.productshowcase\\productshowcasecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1C303-7DDA-451C-959F-383FB2D9FD33}|HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.views.mainwindow.sections.productshowcase\\productshowcasecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D1C303-7DDA-451C-959F-383FB2D9FD33}|HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase.csproj|solutionrelative:hardwarestore.mvp.views.mainwindow.sections.productshowcase\\productshowcasecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D7C589-650F-4046-ABDD-8BAA0F98E14A}|HardwareStore.MVP.Views.MainWindow\\HardwareStore.MVP.Views.MainWindow.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.views.mainwindow\\mainwindowcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D7C589-650F-4046-ABDD-8BAA0F98E14A}|HardwareStore.MVP.Views.MainWindow\\HardwareStore.MVP.Views.MainWindow.csproj|solutionrelative:hardwarestore.mvp.views.mainwindow\\mainwindowcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D7C589-650F-4046-ABDD-8BAA0F98E14A}|HardwareStore.MVP.Views.MainWindow\\HardwareStore.MVP.Views.MainWindow.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.views.mainwindow\\mainwindowcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D7C589-650F-4046-ABDD-8BAA0F98E14A}|HardwareStore.MVP.Views.MainWindow\\HardwareStore.MVP.Views.MainWindow.csproj|solutionrelative:hardwarestore.mvp.views.mainwindow\\mainwindowcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05226EB-2A68-44F9-81F4-1F8165DD47DF}|HardwareStore.MVP.Views.UserIdentification.Authorization\\HardwareStore.MVP.Views.UserIdentification.Authorization.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.views.useridentification.authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05226EB-2A68-44F9-81F4-1F8165DD47DF}|HardwareStore.MVP.Views.UserIdentification.Authorization\\HardwareStore.MVP.Views.UserIdentification.Authorization.csproj|solutionrelative:hardwarestore.mvp.views.useridentification.authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05226EB-2A68-44F9-81F4-1F8165DD47DF}|HardwareStore.MVP.Views.UserIdentification.Authorization\\HardwareStore.MVP.Views.UserIdentification.Authorization.csproj|c:\\users\\\u0440\u0441\\source\\repos\\hardwarestore\\hardwarestore.mvp.views.useridentification.authorization\\authorizationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05226EB-2A68-44F9-81F4-1F8165DD47DF}|HardwareStore.MVP.Views.UserIdentification.Authorization\\HardwareStore.MVP.Views.UserIdentification.Authorization.csproj|solutionrelative:hardwarestore.mvp.views.useridentification.authorization\\authorizationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.UserIdentification.Authorization\\Program.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Views.UserIdentification.Authorization\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.UserIdentification.Authorization\\Program.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Views.UserIdentification.Authorization\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:41:05.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Presenter.MainWindow.Sections.ShoppingCart\\ShoppingCartPresenter.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Presenter.MainWindow.Sections.ShoppingCart\\ShoppingCartPresenter.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Presenter.MainWindow.Sections.ShoppingCart\\ShoppingCartPresenter.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Presenter.MainWindow.Sections.ShoppingCart\\ShoppingCartPresenter.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:35:20.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductShowcaseControl.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\ProductShowcaseControl.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\ProductShowcaseControl.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\ProductShowcaseControl.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\ProductShowcaseControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:20:50.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductShowcaseControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\ProductShowcaseControl.Designer.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\ProductShowcaseControl.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\ProductShowcaseControl.Designer.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Views.MainWindow.Sections.ProductShowcase\\ProductShowcaseControl.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:20:45.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Presenters.MainWindow\\MainWindowPresenter.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Presenters.MainWindow\\MainWindowPresenter.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Presenters.MainWindow\\MainWindowPresenter.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Presenters.MainWindow\\MainWindowPresenter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:17:25.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductShowcasePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Presenters.MainWindow.ProductShowcase\\ProductShowcasePresenter.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Presenters.MainWindow.ProductShowcase\\ProductShowcasePresenter.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Presenters.MainWindow.ProductShowcase\\ProductShowcasePresenter.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Presenters.MainWindow.ProductShowcase\\ProductShowcasePresenter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:18:46.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindowControl.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.MainWindow\\MainWindowControl.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Views.MainWindow\\MainWindowControl.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.MainWindow\\MainWindowControl.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Views.MainWindow\\MainWindowControl.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:20:30.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindowControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.MainWindow\\MainWindowControl.Designer.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Views.MainWindow\\MainWindowControl.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.MainWindow\\MainWindowControl.Designer.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Views.MainWindow\\MainWindowControl.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:20:24.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorizationForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.UserIdentification.Authorization\\AuthorizationForm.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Views.UserIdentification.Authorization\\AuthorizationForm.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.UserIdentification.Authorization\\AuthorizationForm.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Views.UserIdentification.Authorization\\AuthorizationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:16:49.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorizationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.UserIdentification.Authorization\\AuthorizationForm.Designer.cs",
+              "RelativeDocumentMoniker": "HardwareStore.MVP.Views.UserIdentification.Authorization\\AuthorizationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\HardwareStore\\HardwareStore.MVP.Views.UserIdentification.Authorization\\AuthorizationForm.Designer.cs",
+              "RelativeToolTip": "HardwareStore.MVP.Views.UserIdentification.Authorization\\AuthorizationForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:16:44.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

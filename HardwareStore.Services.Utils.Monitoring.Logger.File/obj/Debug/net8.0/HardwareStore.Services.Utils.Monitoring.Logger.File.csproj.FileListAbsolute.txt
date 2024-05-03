@@ -1,0 +1,17 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\bin\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Templates.DirectoryInfoManagement.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\Hardware.F9DC325C.Up2Date
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\refint\HardwareStore.Services.Utils.Monitoring.Logger.File.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\HardwareStore.Services.Utils.Monitoring.Logger.File.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.Services.Utils.Monitoring.Logger.File\obj\Debug\net8.0\ref\HardwareStore.Services.Utils.Monitoring.Logger.File.dll

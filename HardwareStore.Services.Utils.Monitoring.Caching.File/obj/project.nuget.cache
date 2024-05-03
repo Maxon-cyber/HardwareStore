@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NedtNZsN8bKvRifsi1ugluyTLdrYKs5E3slVIL4DnATCBNhSc15wALhN90v66aRT56za0QFsIaE5aV+lK7tPSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Services.Utils.Monitoring.Caching.File\\HardwareStore.Services.Utils.Monitoring.Caching.File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\рс\\.nuget\\packages\\yamldotnet\\15.1.2\\yamldotnet.15.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

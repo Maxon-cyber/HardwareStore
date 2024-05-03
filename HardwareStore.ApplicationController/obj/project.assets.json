@@ -1,0 +1,158 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "HardwareStore.ApplicationController.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "HardwareStore.MVP.Presenters.Abstractions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HardwareStore.ApplicationController.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HardwareStore.ApplicationController.Abstractions.dll": {}
+        }
+      },
+      "HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions.dll": {}
+        }
+      },
+      "HardwareStore.ApplicationController.ThridParty.IoC.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.dll": {}
+        }
+      },
+      "HardwareStore.MVP.Presenters.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HardwareStore.MVP.Presenters.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HardwareStore.MVP.Presenters.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardwareStore.ApplicationController.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../HardwareStore.ApplicationController.Abstractions/HardwareStore.ApplicationController.Abstractions.csproj",
+      "msbuildProject": "../HardwareStore.ApplicationController.Abstractions/HardwareStore.ApplicationController.Abstractions.csproj"
+    },
+    "HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions/HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions.csproj",
+      "msbuildProject": "../HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions/HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions.csproj"
+    },
+    "HardwareStore.ApplicationController.ThridParty.IoC.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../HardwareStore.ApplicationController.ThridParty.IoC.Abstractions/HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.csproj",
+      "msbuildProject": "../HardwareStore.ApplicationController.ThridParty.IoC.Abstractions/HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.csproj"
+    },
+    "HardwareStore.MVP.Presenters.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../HardwareStore.MVP.Presenters.Abstractions/HardwareStore.MVP.Presenters.Abstractions.csproj",
+      "msbuildProject": "../HardwareStore.MVP.Presenters.Abstractions/HardwareStore.MVP.Presenters.Abstractions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "HardwareStore.ApplicationController.Abstractions >= 1.0.0",
+      "HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions >= 1.0.0",
+      "HardwareStore.ApplicationController.ThridParty.IoC.Abstractions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\рс\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController\\HardwareStore.ApplicationController.csproj",
+      "projectName": "HardwareStore.ApplicationController",
+      "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController\\HardwareStore.ApplicationController.csproj",
+      "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController.Abstractions\\HardwareStore.ApplicationController.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController.Abstractions\\HardwareStore.ApplicationController.Abstractions.csproj"
+            },
+            "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions\\HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions\\HardwareStore.ApplicationController.ThridParty.Configuration.Abstractions.csproj"
+            },
+            "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions\\HardwareStore.ApplicationController.ThridParty.IoC.Abstractions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HardwareStore.Services.Abstractions/1.0.0": {
+        "dependencies": {
+          "HardwareStore.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HardwareStore.Services.Abstractions.dll": {}
+        }
+      },
+      "HardwareStore.Entities/1.0.0": {
+        "runtime": {
+          "HardwareStore.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardwareStore.Services.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HardwareStore.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

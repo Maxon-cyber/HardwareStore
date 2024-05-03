@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\bin\Debug\net8.0\HardwareStore.MVP.Presenters.Abstractions.deps.json
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\bin\Debug\net8.0\HardwareStore.MVP.Presenters.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\bin\Debug\net8.0\HardwareStore.MVP.Presenters.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\obj\Debug\net8.0\HardwareStore.MVP.Presenters.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\obj\Debug\net8.0\HardwareStore.MVP.Presenters.Abstractions.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\obj\Debug\net8.0\HardwareStore.MVP.Presenters.Abstractions.AssemblyInfo.cs
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\obj\Debug\net8.0\HardwareStore.MVP.Presenters.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\obj\Debug\net8.0\HardwareStore.MVP.Presenters.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\obj\Debug\net8.0\refint\HardwareStore.MVP.Presenters.Abstractions.dll
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\obj\Debug\net8.0\HardwareStore.MVP.Presenters.Abstractions.pdb
+C:\Users\рс\source\repos\HardwareStore\HardwareStore.MVP.Presenters.Abstractions\obj\Debug\net8.0\ref\HardwareStore.MVP.Presenters.Abstractions.dll

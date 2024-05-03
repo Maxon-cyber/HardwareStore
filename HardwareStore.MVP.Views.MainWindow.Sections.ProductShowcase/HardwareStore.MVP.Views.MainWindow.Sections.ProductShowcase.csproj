@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HardwareStore.MVP.Presenters.UserIdentification\HardwareStore.MVP.Presenters.UserIdentification.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Views.Abstractions\HardwareStore.MVP.Views.Abstractions.csproj" />
+    <ProjectReference Include="..\HardwareStore.MVP.Views.MainWindow.Sections.Product\HardwareStore.MVP.Views.MainWindow.Sections.Product.csproj" />
+  </ItemGroup>
+
+</Project>

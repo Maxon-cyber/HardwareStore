@@ -1,0 +1,429 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.SqlServer\\HardwareStore.DataAccess.Providers.Relational.SqlServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Abstractions\\HardwareStore.DataAccess.Providers.Relational.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Abstractions\\HardwareStore.DataAccess.Providers.Relational.Abstractions.csproj",
+        "projectName": "HardwareStore.DataAccess.Providers.Relational.Abstractions",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Abstractions\\HardwareStore.DataAccess.Providers.Relational.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Models\\HardwareStore.DataAccess.Providers.Relational.Models.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Models\\HardwareStore.DataAccess.Providers.Relational.Models.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Entities\\HardwareStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Entities\\HardwareStore.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Models\\HardwareStore.DataAccess.Providers.Relational.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Models\\HardwareStore.DataAccess.Providers.Relational.Models.csproj",
+        "projectName": "HardwareStore.DataAccess.Providers.Relational.Models",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Models\\HardwareStore.DataAccess.Providers.Relational.Models.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.SqlServer\\HardwareStore.DataAccess.Providers.Relational.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.SqlServer\\HardwareStore.DataAccess.Providers.Relational.SqlServer.csproj",
+        "projectName": "HardwareStore.DataAccess.Providers.Relational.SqlServer",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.SqlServer\\HardwareStore.DataAccess.Providers.Relational.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Abstractions\\HardwareStore.DataAccess.Providers.Relational.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Abstractions\\HardwareStore.DataAccess.Providers.Relational.Abstractions.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.ADO\\HardwareStore.Providers.Relational.DataTools.ADO.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.ADO\\HardwareStore.Providers.Relational.DataTools.ADO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Entities\\HardwareStore.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Entities\\HardwareStore.Entities.csproj",
+        "projectName": "HardwareStore.Entities",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Entities\\HardwareStore.Entities.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.Abstractions\\HardwareStore.Providers.Relational.DataTools.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.Abstractions\\HardwareStore.Providers.Relational.DataTools.Abstractions.csproj",
+        "projectName": "HardwareStore.Providers.Relational.DataTools.Abstractions",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.Abstractions\\HardwareStore.Providers.Relational.DataTools.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Models\\HardwareStore.DataAccess.Providers.Relational.Models.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.DataAccess.Providers.Relational.Models\\HardwareStore.DataAccess.Providers.Relational.Models.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Entities\\HardwareStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Entities\\HardwareStore.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.ADO\\HardwareStore.Providers.Relational.DataTools.ADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.ADO\\HardwareStore.Providers.Relational.DataTools.ADO.csproj",
+        "projectName": "HardwareStore.Providers.Relational.DataTools.ADO",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.ADO\\HardwareStore.Providers.Relational.DataTools.ADO.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.ADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.Abstractions\\HardwareStore.Providers.Relational.DataTools.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\HardwareStore\\HardwareStore.Providers.Relational.DataTools.Abstractions\\HardwareStore.Providers.Relational.DataTools.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
